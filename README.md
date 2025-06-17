@@ -30,7 +30,7 @@ This Web app allows you to **upload your own housing dataset** (CSV format), sel
 
 <p align="left">
   <a href="https://custom-house-price-predictor-a.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Predictor-Streamlit-brightgreen?logo=streamlit" alt="Open Predictor">
+    <img src="https://img.shields.io/badge/Open%20Predictor-brightgreen" alt="Open Predictor">
   </a>
 </p>
 

@@ -30,10 +30,9 @@ This Web app allows you to **upload your own housing dataset** (CSV format), sel
 
 <p align="left">
   <a href="https://custom-house-price-predictor-a.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20App-Streamlit-brightgreen?logo=streamlit" alt="Open in Streamlit">
+    <img src="https://img.shields.io/badge/Open%20Predictor-Streamlit-brightgreen?logo=streamlit" alt="Open Predictor">
   </a>
 </p>
-
 
 ## 🧠 How It Works
 
@@ -101,13 +100,6 @@ Use the following test cases to verify the app behavior:
 or 
 
 Upload your own housing dataset with numerical columns like square footage, year built, etc.
-
-
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## 💡 Ideas for Future Improvements
